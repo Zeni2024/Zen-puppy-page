@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+img {
+  width: 100%;
+}
+/* --Header statrs here--- */
+.headfoot {
+  background-color: #0c4f70;
+  /* text-align: center; */
+  color: white;
+  font-size: 40px;
+}
+
+.Missing {
+  background-color: red;
+}
+
+.Missing p {
+  font-size: 25px;
+}
+/* @media (min-width: 980px) {
+    {font-size: 40px;}
+} */
